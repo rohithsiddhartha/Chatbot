@@ -3,8 +3,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from app.chatbot.chatbot import create_vector_store, setup_rag_with_history, get_response 
 
-os.environ["OPENAI_API_KEY"] = "sk-*********"
-
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 app = FastAPI()
 
@@ -47,7 +46,7 @@ class QueryResponse(BaseModel):
             }
         }
 
-@app.post("/ask", response_model=QueryResponse)
+@app.post("/chat", response_model=QueryResponse)
 def ask_question(request: QueryRequest):
     """
     Handles the POST request to the /ask endpoint.

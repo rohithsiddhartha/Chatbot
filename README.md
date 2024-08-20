@@ -134,12 +134,20 @@ To deploy the application on Heroku, ensure you have the `heroku.yml` and `Docke
    ```bash
    pip install -r requirements.txt
    ```
+4. Setup OPENAI_API_KEY:
+    ```bash
+    export OPENAI_API_KEY="your_openai_api_key"
+    ```
 
-4. Run the FastAPI server:
+5. Run the FastAPI server:
    ```bash
    uvicorn api:app --reload
    ```
 
+6. To setup OPENAI_API_KEY in Heroku
+    ```bash
+    heroku config:set OPENAI_API_KEY="your_openai_api_key"
+    ```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
