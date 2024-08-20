@@ -11,7 +11,6 @@ from langchain_core.output_parsers import JsonOutputParser
 from pydantic import BaseModel
 import inspect
 
-os.environ["OPENAI_API_KEY"] = "sk-"
 
 INFORMATION_EXTRACTION_PROMPT = inspect.cleandoc(""" Given the following raw text extracted from a website, transform the content into a well-organized and concise format that retains all essential information. Ensure the output is structured in a way that can be easily utilized for tasks such as data analysis, presentation, or further processing by a personal assistant. Highlight key points, maintain accuracy, and eliminate unnecessary details. The final output should be clear, actionable, and optimized for readability. Ouptut doesn't have to follow the exact format of the example but adhere to the instructions given
 

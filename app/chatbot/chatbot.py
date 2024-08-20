@@ -7,7 +7,6 @@ from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.memory import ConversationBufferMemory
 
-os.environ["OPENAI_API_KEY"] = "sk-"
 
 def create_vector_store(text):
     """
