@@ -1,0 +1,68 @@
+Skip to main content
+Artisan AI Help Center
+Back To App
+English
+English
+All Collections
+Artisan Sales
+How To Create A New Campaign
+How To Create A New Campaign
+Learn how to create a new outbound sales campaign using our platform.
+Updated over a week ago
+Table of contents
+Watch the video tutorial on Youtube here: https://youtu.be/90OPFY5v6A8?si=hwc55rtrD47G3YRr
+Ready to create a brand new outbound campaign with Ava? Great! There are two ways you can get started, which we’ll go over here.
+Chat With Ava
+This method is very similar to how you first set up your campaign with Ava.
+Go to the “Chat with Ava” page on the platform and ask her to help you create a new campaign. Just like you did when you initially onboarded Ava, you’ll go over information such as your target customer persona, campaign pitch, calendar link, and so on.
+Ava will guide you through this process step-by-step. Once you’re done, your new campaign will appear on the 'Campaigns' page of the platform for you to review.
+Create A Campaign Manually
+You can also create a campaign manually, allowing you to input information directly into text boxes.
+To get started, head to your "Campaigns" page and hit “Create Campaign” in the top left corner. First, set a name for your campaign.
+Enter Your Target Customer Persona
+From here, you’ll filter your targets by areas such as region, job title, sector, and so on. You can further limit your target persona with keywords. For example, you could opt to target people who work in the AI sector exclusively by adding "AI" as a keyword. You can also blacklist competitors and current users to ensure you don’t accidentally send them any messages.
+Once you’re done, make sure you hit “Save Changes” before heading to the next section!
+Create Your Campaign Pitch
+After you’ve defined your customer persona, move on to the “Campaign Pitch” tab of your campaign settings. Here, you’ll give Ava all the information she needs to draft a compelling email to your leads.
+Enter your company website and a short, succinct sales pitch. Ava will use this to describe your company to leads.
+For example, if we were creating a campaign pitch for Artisan AI, we might write something like, “We’ve created the world's first AI BDR, Ava, who can automatically find your leads, do lead research, and draft hyper-personalized emails on behalf of your team.”
+From there, you’ll be asked to fill in your features, pain points, and proof points. We recommend you include at least three or four of these to ensure Ava can fully explain your company’s offering to potential customers.
+Features
+This should include any unique features that will help sell your product or service.
+For our Artisan pitch, for example, we might say, “Ava drafts you hundreds of personalized emails based on advanced web scraping to ensure that each cold email is compelling to your target customer persona.”
+Pain Points
+Pain points give you the chance to concretely advertise your product or service’s benefits. Make sure to be specific here and state exactly what problem you’re going to help leads solve.
+Going back to our Artisan AI pitch, we might say, “Manual email personalization is time-consuming. Most sales reps spend hundreds of hours individually researching leads and drafting personalized emails.”
+Proof Points
+Proof points are what help you stand out to buyers. Has your company received any awards? Been featured in any major media publication? Do you have any impressive performance metrics to share? Include that here.
+For example, a proof point for Artisan AI might be, “We're backed by the prestigious startup school Y Combinator.”
+Once you’ve entered your features, pain points, and proof points, be sure to save your changes. Now, Ava has all the information she needs to draft cold emails for your team.
+Move To Campaign Outreach
+Once you’re done entering your campaign information, you’ll move on to the final section, which is “Campaign Outreach”. Here, you’ll make a few final decisions about the style of your emails before activating your campaign.
+Language
+Select the language you want Ava to use to communicate with leads. Right now, Ava writes in 40+ different languages.
+Sender Settings
+You can choose to add a custom email signature to the bottom of all your emails. This can be modified on the "Account Settings" page of the platform. You can include any information you want, including your full name, job title, company name, company website, and phone number.
+Calendar Link
+Upload a link to your calendar so leads can book meetings with you. If you don't want to include a calendar link for the moment, you can enter "google.com" as a placeholder. Ava will know to not share this with your leads!
+Tone of Voice
+Select the tone of voice you want Ava to use during outreach. Popular ones include "friendly" and "professional"!
+Playbooks
+Playbooks are different styles of AI-generated email outreach. Right now, you can choose from the following:
+Classic Sales Pitch: The standard sales pitch of compliment, relate, and sell.
+Uno Reverse: Asks leads engaging business questions to start the conversation.
+Ultrahuman: Deliberately writes in a casual, friendly manner, occasionally including typos and errors to give the impression that a human wrote the email.
+Email Templates
+If you don't want Ava to draft emails for you, you also have the option to use email templates to write your own emails to leads.
+For more information on how to use email templates, check out our 'How-To' video here: https://youtu.be/7hAMTNOKyYY?si=rXFY829SXriO31YR
+Finally, Set Your Campaign to Active
+You’re all set! Now, all you have to do is set your campaign to active and Ava will start populating leads and drafting emails.
+Related Articles
+How To Setup New Domains & Email Accounts
+How Do I Upload a CSV File of My Own Leads?
+How Many Email Addresses Do I Need for Different Plans?
+Ava Isn’t Sending Out My Emails. Why?
+Getting Started with Artisan Sales
+Did this answer your question?
+😞😐😃
+Artisan AI Help Center

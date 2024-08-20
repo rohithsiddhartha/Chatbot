@@ -1,0 +1,40 @@
+Skip to main content
+Artisan AI Help Center
+Back To App
+English
+English
+All Collections
+Artisan Sales
+How Do I Upload a CSV File of My Own Leads?
+How Do I Upload a CSV File of My Own Leads?
+Learn how to upload a CSV file of your own leads for Ava to draft personalized emails for.
+Updated over a week ago
+Table of contents
+Watch the video tutorial on Youtube here: https://youtu.be/Q2cvz48wdKg?feature=shared
+If you would like Ava to contact a list of leads you’ve generated yourself, you can upload a CSV file with the leads included. Doing so is a simple process.
+All you need to do is click on "Upload CSV" button in the Target Customer Persona section of your Campaign Settings:
+Once you upload your file, Ava should be ready to start drafting emails! However, there are a few things you should be aware of when working off your own CSV file.
+Make Sure You Have All the Information For Each Lead
+For Ava to use your CSV file, she'll need the following information about your leads:
+Email Address
+First Name
+Organization Name
+Job Title
+Website
+The reason why Ava needs this information is because this is all essential information for her to draft her hyper-personalized emails.
+Before uploading your CSV, make sure you’ve included all of this information. If you don't know the job title of particular leads, you can put 'Other' in the cell.
+Map the Corresponding Columns
+After selecting the CSV file to upload, map each column to the corresponding label using the dropdown menu. This step ensures that Ava reads your CSV correctly!
+Ava Won’t Find Leads For You
+If you opt to upload a CSV, Ava will only email leads off of this list. She will not use her search settings to find leads for your campaign.
+Each day, Ava will pull the amount of leads from your CSV that is proportionate to the plan you have. When Ava runs out of leads, she’ll pause her outreach.
+To continue, you’ll need to either upload a new CSV or set up a campaign with your target customer persona so Ava can find leads for you.
+Related Articles
+Does Ava Work for B2C Leads?
+How Many Email Addresses Do I Need for Different Plans?
+Ava Isn’t Sending Out My Emails. Why?
+How To Create A New Campaign
+Getting Started with Artisan Sales
+Did this answer your question?
+😞😐😃
+Artisan AI Help Center

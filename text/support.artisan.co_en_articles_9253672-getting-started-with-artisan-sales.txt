@@ -1,0 +1,69 @@
+Skip to main content
+Artisan AI Help Center
+Back To App
+English
+English
+All Collections
+Artisan Sales
+Getting Started with Artisan Sales
+Getting Started with Artisan Sales
+How to get started with the Artisan Sales platform when you first sign up for an account.
+Updated over a week ago
+Table of contents
+Welcome to our platform! We’re excited to have you here.
+The Artisan Sales platform is designed to streamline your outbound workflow, with all the tools you need in one place. We have built-in email warmup, bounce testing, and mailbox health monitoring to ensure your deliverability is optimized. We also have an analytics dashboard, so you can check which campaigns and playbooks are doing the best.
+And of course, we have our AI BDR Ava, who automates all the manual parts of outbound for you! Once you've set up your campaign, she helps you find leads, does research on them, and writes personalized emails for you to review and send.
+To make things easy for you, we’ve made sure our platform set-up is straightforward and user-friendly. Below, you’ll find a complete guide to getting started so you can dive straight into supercharging your outreach!
+Start with a 10-Minute Onboarding
+Once you’ve signed up for a trial, log in to the platform to get started! You’ll first be greeted by Ava in our chat interface. She’ll guide you through how to set up your first campaign.
+During your chat, Ava will ask you for some information on the kind of leads you want to target, and the offering you’d like to pitch. You might want to have this information handy, so you can breeze through the onboarding!
+Ava will ask you for:
+Your Target Customer Persona
+What countries do you want to target?
+What about industries?
+Job titles?
+Company size?
+About Your Company
+Provide a one sentence summary of what your company provides. (We recommend being as specific as possible here!)
+What features does your product/service offer?
+What pain points does your product/service address?
+Proof points: What sets you apart from the competition, such as awards, high rankings on review sites, or notable performance metrics?
+A few other things she’ll need from you:
+Your calendar link for booking meetings
+Your preferred tone of voice for emails
+The sender name to sign-off emails (Ava sends out emails on behalf of you and your team, so no one knows they’re AI-generated!)
+Make sure you spend as much time as you need on this part of the process. The more Ava knows, the better quality her emails will be.
+Set Up Your Mailboxes
+Once Ava has the information she needs to get started, she’ll ask you to set up your mailboxes that she’ll be sending emails from.
+We recommend setting up a secondary domain to safeguard your main domain’s reputation. When you’re sending out lots of emails, it’s a lot easier to be flagged by spam filters. If they flag you, it can affect your ability to reach prospects' inboxes. Using a secondary domain lets you experiment with A/B testing and optimize your email strategies, without putting your main communication lines at risk.
+We’ve created a guide that guides you through the entire process of creating a secondary domain. Check it out here.
+Once you’ve set up your secondary domain, there’s just one final step before Ava is ready to start sending out emails!
+Since you’ve created new email addresses, it’s crucial that you set up your DNS settings. This ensures that your emails reliably reach their destination and helps prevent them from being marked as spam.
+These settings include DKIM, SPF, and DMARC, which all work together to optimize your mailbox health. You can check out this article for further help.
+Ava Populates Leads
+After your campaign is all set up and your mailbox health is at 100%, Ava begins populating your outbound CRM in the “Leads” tab. She does this by scraping her database of 300M+ B2B contacts and identifying your prospects based on the target customer persona information you provided during the onboarding process.
+You can click into each lead on the page to learn more about them. You can also delete them from your workflow here, if they're not a good match!
+Ava Starts Generating Emails
+Once Ava has identified leads based on your TCP, she will scrape leads’ websites to learn information necessary to crafting hyper-personalized messages. You can view these in the “Pending Approval” tab!
+To ensure your messages land in the intended recipient’s inbox and not the spam filter, Ava undergoes a 3-week email warmup period. She starts by sending 5 to 10 emails a day to dummy accounts to build up domain reputation. For more information, see our guide to email warmup.
+After 3 weeks, Ava starts sending out emails at full capacity. This means she’ll send 75 emails per mailbox per day.
+When you’re first getting started, we highly recommend enabling copilot mode. With copilot activated, Ava will populate emails on the Emails Pending Approval page for you to review before sending. Each day, you’ll mark emails approved on Ava’s dashboard and review any responses.
+One of Ava’s most exciting features is that she is able to learn over time based on the responses she receives. As she sends out more and more emails, she’ll self-optimize to improve positive response rates.
+Bring Your Team Along for the Ride
+Don't let anyone miss out—invite your teammates to join the platform and see what it's like to have an AI co-worker by your side! Head over to “Account Settings” and bring them into the fold. You can add them as Delegates to share your existing account, or as Members for them to have their own seat on the platform.
+Integrate With Your Sales Stack
+Integrate with Slack to talk to Ava directly through your work channel. We also integrate with Salesforce and HubSpot, so you can export your engaged leads and ensure you don’t reach out to anyone who’s already in your CRM.
+What's Next?
+Once you're all set up on our platform, all you need to do is check back for responses on the Inbox page. Ava will also send you a daily summary of all the responses you've received, via email.
+If you don't have autopilot turned on, you'll also need to check back every day to approve emails on your Pending Approval page.
+If you have any questions along the way, please visit our help center.
+If you run into any issues you can’t fix, please reach out to us via Intercom. Someone will be in touch to help!
+Related Articles
+How To Setup New Domains & Email Accounts
+What Is Email Warmup?
+How Do I Upload a CSV File of My Own Leads?
+Ava Isn’t Sending Out My Emails. Why?
+How To Create A New Campaign
+Did this answer your question?
+😞😐😃
+Artisan AI Help Center

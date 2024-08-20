@@ -1,0 +1,96 @@
+Introduction to Ava, the AI Sales Rep
+
+Sales representatives spend millions of hours tediously researching prospects, writing emails, and booking meetings. But what if we told you it doesn't have to be that way? Introducing Ava, the sales rep.
+
+Artisan Ava is just like anyone else on your team. She has a unique personality and gets to know you. She has conversations with her colleagues via Slack, learns how the company works, and gets better at her job. But Ava isn't like her colleagues at all—Ava is a first-of-her-kind, cutting-edge AI agent trained to revolutionize outbound sales.
+
+Ava is an Artisan. She prospects using her database of over 250 million contacts with 65 parameters. She crafts and sends intent-driven bespoke email sequences to thousands of prospects per month. She responds to prospect questions using her superhuman product knowledge and self-improves using advanced data analytics skills to adaptively modify her writing style, optimizing for conversions. She books meetings into her SDR colleagues' calendars and exports engaged prospects to their CRM—all with no human input. And she costs 96% less than hiring someone to do her job.
+
+Ava marks the beginning of the next industrial revolution, and of an army of Artisans we're introducing to take productivity to new heights. This isn't magic; this is the future, and we're just getting started.
+
+Platform Walkthrough and Onboarding 
+
+Platform Introduction and Onboarding Process:
+- Introduction to the live onboarding session and platform functionalities.
+- Participants are encouraged to ask questions, and engaging team members are present to assist.
+- Step-by-step guidance is provided for setting up accounts, enhancing the user experience.
+
+Platform Features Overview:
+- Explanation of the main platform features, including the dashboard and email settings.
+- Ava crafts outbound campaigns based on user input.
+- Integration of features like warm-up email setup and integration with existing systems such as Slack and CRMs.
+
+Lead Generation and Email Settings:
+- Discussion of lead generation capabilities and strategic email sending.
+- Ava generates a daily quota of leads and manages email responses.
+- Customizable email content and approval process.
+- Domain reputation maintenance through smart email sending practices.
+
+Setting Up a Free Trial:
+- Instructions provided for starting a free trial on the platform.
+- Guidance through the registration process and payment entry.
+- Assurance that no charges occur until the trial concludes, with options for extension if needed.
+
+Advanced Features and Future Updates:
+- Overview of upcoming features and enhancements.
+- Addressing user queries regarding lead coverage expansion and email integration.
+- Discussion on compliance with GDPR for international leads.
+- Future plans for introducing B2C features and additional integrations with email systems.
+
+Differences Between Automation Systems 
+
+- Discussion on the differences between traditional SaaS platforms and Ava as a digital worker designed to enhance team performance.
+- Ava operates as a collaborative tool rather than standalone software, creating an integrated ecosystem that enhances productivity across business functions.
+
+Managing Email Domains 
+
+- Strategies for managing multiple email domains to avoid being blocked, including using Google Workspace.
+- Recommendation to set up a new domain for outbound communication to protect the original domain's reputation.
+- Maintaining consistent email addresses across platforms to avoid login issues.
+
+Understanding Client Pain Points 
+
+- Ava identifies common obstacles users face, particularly in lead generation and multi-platform management.
+- Emphasis on providing comprehensive information about customer pain points for better outbound email generation.
+
+Onboarding and Setup 
+
+- Overview of the initial onboarding process for using the platform and managing leads effectively with Ava.
+- Emphasizes clear communication regarding how users want the assistant to engage with leads.
+- Incorporation of automation features in future updates for better sales management.
+
+Email Integration and Security Measures 
+
+- Procedures for connecting email accounts, focusing on security and communication efficiency.
+- Importance of turning on email warm-up features to avoid spam filters and improve deliverability.
+
+Global Lead Generation Capabilities 
+
+- Availability of international leads and data verification practices.
+- Support for a diverse array of global leads, including regions such as Africa.
+
+Lead Generation and Management Overview 
+
+- Discussion on lead generation capabilities in various international markets.
+- Explanation of lead specifications such as exclusion lists and the importance of warm-up features for email deliverability.
+
+Live Q&A Session 
+
+- Addressing common user queries regarding Ava's functionalities and features.
+- Clarification on uploading custom leads and integrating popular CRM systems.
+
+Email Automation and Engagement Strategies 
+
+- Detailed explanation of how Ava constructs and sends emails to leads.
+- Insights into personalization techniques used in email crafting.
+- Overview of follow-up email protocols and how to approve emails before sending.
+
+Daily Actions and System Operations 
+
+- Description of daily tasks required to maintain Ava's operational effectiveness.
+- Guidelines for managing lead information and email approvals.
+
+Continuous Improvement and User Feedback 
+
+- Discussion on how Ava adapts and improves functionalities and email responses over time.
+- Encouragement for user feedback to enhance platform features and usability.

@@ -1,0 +1,37 @@
+Skip to main content
+Artisan AI Help Center
+Back To App
+English
+English
+All Collections
+Artisan Sales
+What Is Email Warmup?
+What Is Email Warmup?
+Here we explain what email warmup is, how it works, why we use it and what to expect!
+Updated over a week ago
+Table of contents
+Email warmup works by gradually increasing the volume of emails sent from a new account over a period of time. This establishes a positive reputation with Internet Service Providers (ISPs), which improves deliverability and reduces the chance of emails getting flagged as spam.
+Given our recommendation to register new email accounts on our platform, we provide a built-in email warmup service. This ensures your mailboxes are prepared to handle your outbound email campaigns effectively.
+How Does Email Warmup Work?
+Warmup is an ongoing process that happens when you do cold outreach to protect your mailbox health. Our warmup service will send emails from your new account to dummy addresses. We'll start with a low volume of emails and then gradually increase the number of emails sent every day.
+Again, email warmup is an extremely common practice in cold outreach and necessary to avoid your messages getting flagged as spam.
+How Can I Tell What A Warmup Email Looks Like?
+We use the keyword “Artz” in all of our warmup emails so that you know these are definitely warm up emails! Warmup emails tend to have random subjects, so will look out of place in your sent folder. Here’s an example of a warmup email:
+How Long Is Ava’s Email Warmup Period?
+Email warmup is an ongoing process designed to gradually increase your sending limit while maintaining the health of your email account.
+Initially, this process "warms up" your account, starting with a limit of 10 emails per day, and progressively expands to a maximum of 75 emails per mailbox. As you continue to send cold emails, this ongoing warmup supports the balance and health of your email activities. You can monitor the progression of your email capacity on our dashboard.
+Once your email is fully warmed up, Ava will continue sending warm-up emails from your account to maintain your mailbox health.
+Okay, So Is This Why Ava Is Sending Strange Emails?
+Yep! During her warmup period, Ava sends fake interactions to dummy accounts. There’s no need to be concerned about these odd emails showing up in your inbox. They’re not going to any actual prospects. You haven’t been hacked!
+My Email Status is Red. Is This Related to Email Warmup?
+A red email status indicates your mailbox health is low. This may occur early in the email warmup process, but should not persist after three weeks.
+If you still have a red status after three weeks, there’s usually a problem with your DMS settings. Make sure your DKIM, DMARC, and SPF records are configured correctly for email deliverability. You can find an article on how to adjust your email settings here: https://support.artisan.co/en/articles/8774818-how-to-set-up-your-dkim-spf-and-dmarc
+Related Articles
+How To Setup New Domains & Email Accounts
+Help! Ava Is Sending Strange Messages From My Email
+How Many Email Addresses Do I Need for Different Plans?
+Ava Isn’t Sending Out My Emails. Why?
+Getting Started with Artisan Sales
+Did this answer your question?
+😞😐😃
+Artisan AI Help Center

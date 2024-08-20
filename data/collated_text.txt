@@ -1,0 +1,377 @@
+Artisan AI - Ava, Your AI Sales Agent:
+
+Overview:
+
+Ava: An advanced AI Sales Agent that automates over 80% of the B2B outbound demand generation process, handling tasks traditionally managed by BDRs and SDRs.
+Key Features:
+
+Roles:
+Artisan BDR: Automates lead prospecting, enrichment, contact verification, research, and outbound email writing.
+Platform Manager: Oversees campaign execution.
+Sales Coach: Provides insights and optimizes strategies.
+Data Analyst: Leverages data for targeted outreach.
+Lead Prospecting:
+Access to over 300M contacts across 200+ countries.
+Matches leads with Ideal Customer Profiles (ICP) for active campaigns.
+Capabilities:
+
+Autonomous Operation: Ava handles all manual outbound tasks, enabling your team to focus on closing deals.
+Email Outreach: Ava sends personalized emails and can potentially manage responses.
+Potential Integrations: LinkedIn outreach and phone calls (check availability).
+Getting Started:
+
+Contact Sales: Discuss specific needs, including pricing and features.
+Products & Solutions:
+
+Artisan Sales Platform:
+B2B Data
+Sales Playbooks
+Email Warmup
+Sales Automation
+Target Audience:
+Enterprise
+Midmarket
+Startups
+Lead Gen Agencies (Coming Soon)
+
+
+Artisan AI Overview:
+
+Core Offering:
+
+All-In-One AI-First Platform: Automates outbound sales processes, reducing manual work by over 80%.
+AI Employees (Artisans): Includes Ava, an AI Business Development Representative (BDR), who handles lead generation, research, and hyper-personalized email outreach.
+Key Features:
+
+Lead Generation:
+
+Access to over 300M B2B contacts.
+Enrichment with demographic, firmographic, intent, and technographic data.
+Email verification.
+Personalized Outreach:
+
+Ava conducts research on each prospect.
+Generates and sends hyper-personalized emails on behalf of sales reps.
+Sales Automation:
+
+Custom Playbooks that replicate and automate top-performing strategies.
+Email Warmup: Ensures high email deliverability.
+Workflow Automation: Streamlines the entire outbound process.
+Comprehensive B2B Data:
+
+Detailed company profiles.
+Decision-maker contact information.
+Industry-specific insights.
+Multi-Language Support: Over 40 languages available for email communication.
+
+Enterprise Solutions:
+
+Consolidation: Replaces the need for multiple tools, centralizing outbound processes into one platform.
+High-Leverage Work: Automation allows reps to focus on high-value activities, like calling and closing deals.
+Customization: Tailored Playbooks to replicate and automate manual strategies.
+Products & Services:
+
+Ava, AI Sales Agent
+B2B Data
+Sales Playbooks
+Email Warmup
+Sales Automation
+Target Audience:
+
+Enterprise
+Midmarket
+Startups
+Lead Gen Agencies (Coming Soon)
+Company Information:
+
+About Us
+Careers
+Contact Us
+Artisan Labs (Coming Soon)
+
+Artisan AI - Company Overview:
+
+Introduction:
+
+Founded: 2023, San Francisco.
+Team: 16 members.
+Leadership: Led by Group Partner Pete Koomen.
+Mission: Revolutionize business processes through AI Employees called "Artisans" that consolidate and simplify software platforms.
+Platform Overview:
+
+Core Focus: Integrates tools into a unified platform, streamlining outbound sales and enhancing efficiency.
+Unique Selling Point: Eliminates the need for multiple tools, offering a seamless, user-friendly system.
+Key Features:
+
+Lead Discovery:
+
+Access to 300M+ B2B contacts.
+Comprehensive data enrichment and verification.
+Lead Research:
+
+Utilizes data sources for accurate and thorough research.
+Sales Strategy & Email Personalization:
+
+Crafting hyper-personalized emails based on research.
+Email Deliverability:
+
+Tools for optimizing email campaigns, including warm-up procedures and placement tests.
+Ava - AI Business Development Representative (BDR):
+
+Role: Automates critical outbound sales tasks.
+Capabilities:
+Lead Generation: Leverages a vast database for prospecting.
+Research: Gathers detailed data on leads.
+Personalized Emails: Ghostwrites tailored emails to prospects.
+Reply Management: Handles prospect replies with the aim of booking sales meetings (in Beta).
+Operational Process:
+
+Onboarding: Ava conducts a 10-minute conversation to gather information on the user’s business.
+Knowledge Base: Created from the website and onboarding data.
+Prospecting & Email Crafting: Ava generates personalized emails using the knowledge base.
+Reply Management: Ava manages replies to schedule meetings (Beta phase).
+Target Audience:
+
+Primary Users: B2B SaaS startups with early product-market fit.
+Benefits: Automates outbound sales, allowing startups to focus on growth and other critical business areas.
+Vision & Future Plans:
+
+Leadership: Jaspar Carmichael-Jack, a founder, focuses on developing AI Employees and SaaS products.
+Expansion: Plans to introduce more AI Employees and expand platform capabilities.
+Impact: Aims to drive the next Industrial Revolution by integrating and automating business processes.
+Getting Started:
+
+Sign-Up: Via Artisan’s platform.
+Onboarding: 10-minute conversation with Ava.
+Platform Navigation: Guided by Ava.
+Campaign Setup: Assisted by Ava.
+Ongoing Support: Continuous updates and support.
+Contact Information:
+
+Locations:
+Ivana Mazepy Str, 16, office 8, Kyiv, 02100, Ukraine.
+Sakala tn 7-2, Tallinn, 10141, Estonia.
+
+
+Artisan AI - Email Warmup Overview:
+
+Purpose of Email Warmup:
+
+Objective: Gradually increase the volume of emails sent from a new account to establish a positive reputation with Internet Service Providers (ISPs). This improves email deliverability and reduces the chances of emails being flagged as spam.
+How Email Warmup Works:
+
+Process:
+Starts with a low volume of emails sent to dummy addresses.
+Gradually increases the number of emails sent each day.
+This process continues to maintain mailbox health during ongoing cold outreach campaigns.
+Identification of Warmup Emails:
+
+Keyword: Warmup emails include the keyword “Artz.”
+Appearance: These emails will have random subjects and may seem out of place in your sent folder.
+Duration of Email Warmup:
+
+Initial Phase: Begins with 10 emails per day, gradually increasing to a maximum of 75 emails per mailbox.
+Ongoing Phase: Warmup continues to maintain the health of the email account during cold outreach.
+Red Email Status:
+
+Indication: A red status means your mailbox health is low, possibly due to early warmup stages or misconfigured DMS settings (DKIM, DMARC, SPF).
+Action: If the red status persists beyond three weeks, check and adjust your email settings.
+
+
+
+Artisan AI - Help! Ava Is Sending Strange Messages From My Email
+
+Issue Overview:
+
+Concern: If you see unfamiliar messages in your sent folder, don’t worry—this is part of the email warmup process.
+Purpose: These emails help establish your domain's reputation, ensuring your messages don’t get filtered to spam.
+Explanation:
+
+Warmup Process: Ava sends fake interactions to dummy accounts during the warmup period. These messages are not sent to real prospects, and your account hasn’t been hacked.
+
+Artisan AI - How to Upload a CSV File of Your Own Leads
+
+Overview:
+
+Purpose: Upload a CSV file of your own leads for Ava to draft personalized emails.
+Steps to Upload CSV:
+
+Access Campaign Settings:
+
+Navigate to the Target Customer Persona section.
+Click on the "Upload CSV" button.
+Ensure Required Lead Information:
+
+Essential Fields:
+Email Address
+First Name
+Organization Name
+Job Title (If unknown, use 'Other')
+Website
+This information is crucial for Ava to create hyper-personalized emails.
+Map Columns:
+
+After uploading the CSV, map each column to the corresponding label using the dropdown menu to ensure correct data interpretation by Ava.
+Limitations:
+
+No Lead Search: Ava will only email the leads from your uploaded CSV. She will not search for additional leads.
+Lead Management: Ava will use leads from the CSV daily based on your plan's limits. Once the list is exhausted, outreach will pause until you upload a new CSV or set up a campaign with a target customer persona.
+
+
+Getting Started with Artisan Sales Platform:
+
+Introduction:
+
+Objective: Streamline outbound workflow with integrated tools, including email warmup, bounce testing, and mailbox health monitoring. Ava, the AI BDR, automates manual outbound tasks such as lead finding, research, and email writing.
+Onboarding Process:
+
+Initial Setup:
+
+Sign up and log in to the platform.
+Ava will guide you through setting up your first campaign, asking for:
+Target Customer Persona: Countries, industries, job titles, company size.
+Company Information: One-sentence summary, product features, pain points, proof points (awards, rankings).
+Additional Information: Calendar link, preferred email tone, and sender name.
+Mailboxes Setup:
+
+Secondary Domain: Recommended to safeguard the main domain’s reputation.
+DNS Settings: Configure DKIM, SPF, and DMARC for optimized mailbox health.
+Lead and Email Management:
+
+Lead Population:
+
+Ava populates your CRM with leads based on the target persona using her database of 300M+ B2B contacts.
+Email Generation:
+
+Ava scrapes lead websites for hyper-personalized emails.
+Emails go through a 3-week warmup period before full-scale sending (75 emails per mailbox/day).
+Copilot Mode: Recommended for reviewing and approving emails before sending.
+Team Collaboration:
+
+Invite teammates to the platform as Delegates or Members via "Account Settings."
+Integration:
+
+Slack Integration: Communicate with Ava directly.
+Salesforce/HubSpot Integration: Export engaged leads and manage CRM contacts.
+Ongoing Management:
+
+Daily Summary: Ava sends daily response summaries via email.
+Manual Approvals: If autopilot is off, review and approve emails on the Pending Approval page.
+Support:
+
+For further help, visit the Help Center or reach out via Intercom.
+Related Guides:
+
+Setting up domains and email accounts.
+Email warmup process.
+Uploading CSV files of leads.
+Troubleshooting email sending issues.
+Creating new campaigns.
+
+
+
+Artisan AI - How to Create a New Campaign
+
+Overview:
+
+Objective: Learn how to create an outbound sales campaign using Ava on the Artisan AI platform.
+Two Methods to Create a Campaign:
+
+Chat With Ava:
+
+Go to the "Chat with Ava" page.
+Ask Ava to help you create a new campaign.
+Provide details like target customer persona, campaign pitch, and calendar link.
+Ava will guide you through the setup, and your campaign will appear on the 'Campaigns' page.
+Create a Campaign Manually:
+
+Go to the "Campaigns" page and click "Create Campaign".
+Name your campaign.
+Steps for Manual Campaign Creation:
+
+Enter Target Customer Persona:
+
+Filter by region, job title, sector, and more.
+Add keywords (e.g., "AI") and blacklist competitors/current users.
+Save changes before proceeding.
+Create Campaign Pitch:
+
+Provide your company website and a concise sales pitch.
+Fill in Features, Pain Points, and Proof Points:
+Features: Unique aspects of your product/service.
+Pain Points: Problems your product/service solves.
+Proof Points: Awards, media features, or performance metrics.
+Save changes to enable Ava to draft emails.
+Campaign Outreach Settings:
+
+Language: Choose from 40+ languages.
+Sender Settings: Add a custom email signature in Account Settings.
+Calendar Link: Upload a link for booking meetings or use "google.com" as a placeholder.
+Tone of Voice: Select between "friendly", "professional", and others.
+Playbooks: Choose from styles like "Classic Sales Pitch," "Uno Reverse," or "Ultrahuman."
+Email Templates: Option to use pre-made templates instead of Ava-generated emails.
+Activating the Campaign:
+
+Set your campaign to active, and Ava will start populating leads and drafting emails.
+
+
+Artisan AI - Consolidated Outbound Sales Automation
+
+Overview:
+
+Artisan Sales: An AI-driven platform that automates over 80% of outbound sales tasks.
+Ava: The AI Sales Artisan that works seamlessly with the platform to streamline and optimize sales processes.
+Key Features:
+
+Lead Discovery:
+
+Access to over 300M B2B and e-commerce contacts.
+Lead Research:
+
+Automatically research leads to gather relevant data.
+Sales Strategy:
+
+Implement optimized strategies for targeting prospects.
+Email Writing:
+
+Ava drafts personalized emails for outreach.
+Send Management:
+
+Handle the sending of emails efficiently.
+Deliverability Optimization:
+
+Ensure emails reach their intended recipients.
+Response Rate Optimization:
+
+Continuously improve response rates through self-optimization.
+Why Choose Artisan Sales:
+
+Consolidation: Replaces multiple tools with one subscription.
+Cost Efficiency: Automates tasks to reduce the need for additional headcount.
+AI That Learns: Ava self-optimizes based on feedback, mimicking human learning.
+Quick Onboarding: Get up and running within a week with support from the dedicated team.
+Replicate Top Performers: Use AI Playbooks to replicate and automate successful workflows.
+All-In-One Subscription: Includes features like email deliverability, B2B data, intent-driven outbound, and more.
+Comprehensive Features:
+
+Data Analysis
+B2B Data
+AI Sales Playbooks
+3rd Party Data Enrichment
+Web Scraping
+Bounce Testing
+Lead Discovery
+Lead Research
+Outbound CRM
+Ready to Supercharge Your Outbound?
+
+Get Started with Artisan Sales and Ava to transform your outbound sales efforts.
+Products & Solutions:
+
+Artisan Sales Overview
+Ava, the AI Sales Agent
+B2B Data
+Sales Playbooks
+Email Warmup
+Sales Automation
+Solutions for Enterprise, Midmarket, Startups, and Lead Gen Agencies (Coming Soon)

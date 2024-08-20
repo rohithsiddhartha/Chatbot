@@ -1,0 +1,11 @@
+selenium
+webdriver_manager
+requests_html
+lxml_html_clean
+langchain
+langchain_community
+langchain_openai
+# pydantic
+openai
+tiktoken
+faiss-cpu
