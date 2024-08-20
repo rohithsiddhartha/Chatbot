@@ -75,26 +75,25 @@ def save_text_to_file(text, url, folder_name="text"):
     print(f"Text saved to {file_path}")
 
 
-# # Example usage
-url = " https://artisan.co"
-extracted_text = extract_text_with_selenium(url)
+if __name__ == "__main__":
+    list_of_urls = [
+        "https://www.artisan.co/ai-sales-agent",
+        "https://artisan.co",
+        "https://hiretop.com/blog2/artisan-ava-ai-employee/",
+        "https://support.artisan.co/en/articles/9253672-getting-started-with-artisan-sales",
+        "https://www.artisan.co/products/sales-automation",
+        "https://support.artisan.co/en/articles/9191300-what-is-email-warmup",
+        "https://support.artisan.co/en/articles/9191306-help-ava-is-sending-strange-messages-from-my-email",
+        "https://support.artisan.co/en/articles/9191308-how-do-i-upload-a-csv-file-of-my-own-leads",
+        "https://support.artisan.co/en/articles/9191337-ava-isn-t-sending-out-my-emails-why",
+        "https://support.artisan.co/en/articles/9226514-how-to-create-a-new-campaign"
+    ]
 
-if extracted_text:
-    print(extracted_text)
-else:
-    print("Failed to extract text.")
-
-# list_of_urls = ["https://www.artisan.co/ai-sales-agent", "https://artisan.co", \
-#                 "https://hiretop.com/blog2/artisan-ava-ai-employee/", "https://support.artisan.co/en/articles/9253672-getting-started-with-artisan-sales"]
-list_of_urls = ["https://www.artisan.co/products/sales-automation", "https://support.artisan.co/en/articles/9191300-what-is-email-warmup", \
-                "https://support.artisan.co/en/articles/9191306-help-ava-is-sending-strange-messages-from-my-email", "https://support.artisan.co/en/articles/9191308-how-do-i-upload-a-csv-file-of-my-own-leads"\
-                "https://support.artisan.co/en/articles/9191337-ava-isn-t-sending-out-my-emails-why", "https://support.artisan.co/en/articles/9226514-how-to-create-a-new-campaign"]
-for url in list_of_urls:
-    extracted_text = extract_text_with_selenium(url)
-    if extracted_text:
-        print(extracted_text)
-        print("*"*100)
-        save_text_to_file(extracted_text, url, "text2")
-
-    else:
-        print(f"Failed to extract text from URL: {url}")
+    for url in list_of_urls:
+        extracted_text = extract_text_with_selenium(url)
+        if extracted_text:
+            print(extracted_text)
+            print("*" * 100)
+            save_text_to_file(extracted_text, url, "text2")
+        else:
+            print(f"Failed to extract text from URL: {url}")

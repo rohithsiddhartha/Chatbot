@@ -14,17 +14,14 @@ app/
 ├── chatbot/
 │   ├── chatbot.py               # Core chatbot logic, including the setup of RAG system with history
 │   ├── __init__.py              # Initialization file for the chatbot module
-│   ├── __pycache__/             # Cached Python files
 ├── database_prep/
-│   ├── database_preparation.py   # Database preparation logic
-│   ├── Extraction.py             # Extraction logic
+│   ├── database_preparation.py   # This file is responsible for formatting scraped data and creating collated_text.txt
+│   ├── Extraction.py             # Scrapes data from the links provided and creates txt file for each link
 │   ├── __init__.py               # Initialization file for the database preparation module
-│   ├── __pycache__/              # Cached Python files
-├── __pycache__/                  # Cached Python files
 ├── data/
-│   ├── collated_text.txt         # Data file with extracted information
-│   ├── summary.txt               # Summary data used for the chatbot
-├── text/                         # Additional text data
+│   ├── collated_text.txt         # Data file with extracted and formatted information
+│   ├── summary.txt               # Summary data in collated_text.txt used for the chatbot
+├── text/                         # Scraped tex data
 ├── .dockerignore                 # Specifies files and directories to be ignored by Docker
 ├── .gitignore                    # Specifies files and directories to be ignored by Git
 ├── api.py                        # Main FastAPI application with API endpoints

@@ -74,17 +74,18 @@ def process_files(folder_path):
 
 
 if __name__ == "__main__":
-    folder_path = "text"  
+    folder_path = "text"
 
-    # Generate summary of all extracted information
-    with open('collated_text.txt', 'r') as file:
-        all_extracted_info = file.read()
-    print(all_extracted_info)
-    
+    # Process files in the folder and create collated_text.txt
+    all_extracted_info = process_files(folder_path)
+
+    with open('collated_text.txt', 'w', encoding='utf-8') as collated_file:
+        collated_file.write(all_extracted_info)
+
+    # Generate summary of the collated text
     summary = summarize_text(all_extracted_info)
     print("\nOverall Summary:")
     print(summary)
 
-    
     with open("summary.txt", "w", encoding="utf-8") as file:
         file.write(summary)
