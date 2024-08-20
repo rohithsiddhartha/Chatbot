@@ -9,4 +9,9 @@ COPY . /app
 
 WORKDIR /app
 
-CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8083"]
+# Add entrypoint script
+COPY entrypoint.sh /app/entrypoint.sh
+RUN chmod +x /app/entrypoint.sh
+
+# Use the entrypoint script to determine the port
+CMD ["/app/entrypoint.sh"]

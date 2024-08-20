@@ -3,7 +3,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from app.chatbot.chatbot import create_vector_store, setup_rag_with_history, get_response 
 
-os.environ["OPENAI_API_KEY"] = "sk-***********"
+os.environ["OPENAI_API_KEY"] = "sk-*********"
 
 
 app = FastAPI()
